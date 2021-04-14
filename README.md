@@ -69,7 +69,7 @@ Run static type checker:
 
 Using `curl`:
 
-```
+```bash
 curl -X 'POST' \
   'http://127.0.0.1:8000/convert' \
   -H 'accept: application/json' \
